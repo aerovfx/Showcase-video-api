@@ -16,11 +16,11 @@ export const logo = 'https://res.cloudinary.com/dmrc9szzb/image/upload/v16936185
 
 export const categories = [
   { name: 'Fullstack4kid', icon: <HomeIcon />, },
-  // { name: 'Fullstack4kid', icon: <CodeIcon />, },
   { name: 'Bitbotstudio', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
+  { name: 'Stanforfonline', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
