@@ -15,8 +15,8 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 export const logo = 'https://res.cloudinary.com/dmrc9szzb/image/upload/v1693618592/logo_rvyxhq.png';
 
 export const categories = [
-  // { name: 'New', icon: <HomeIcon />, },
-  { name: 'Fullstack4kid', icon: <CodeIcon />, },
+  { name: 'Fullstack4kid', icon: <HomeIcon />, },
+  // { name: 'Fullstack4kid', icon: <CodeIcon />, },
   { name: 'Bitbotstudio', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
